@@ -1,0 +1,53 @@
+.grid {
+
+    
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color:#006eff;
+    margin: 25px;
+    padding: 75px;
+    
+
+}
+
+img {
+    border: solid #000000;
+}
+.Origami {
+
+
+
+    border-top: 50px;
+    border-bottom: 50px;
+    border-radius:10 px;
+    background-color:rgb(0, 162, 255);
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+
+.menu {
+    
+    display:flex;
+    justify-content: space-evenly;
+    background-image: url("main2.png");
+    background-position: center;
+    background-size: 2000px 800px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+  
+    
+}
+
+.bodyimg {
+    padding: 0px;
+    margin: 25px;
+    background-color: #a73bff;
+}
+
+
