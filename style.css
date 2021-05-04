@@ -12,12 +12,12 @@
 }
 
 img {
-    border: solid #000000;
+    border:double #66ff00 10px;
 }
 .Origami {
 
-
-
+   
+    flex-wrap: wrap;
     border-top: 50px;
     border-bottom: 50px;
     border-radius:10 px;
@@ -26,6 +26,7 @@ img {
     margin: 25px;
     width:310px;
     font-family: Arial, Helvetica, sans-serif;
+    color: #e5ff00;
     
     
 
@@ -45,9 +46,23 @@ img {
 }
 
 .bodyimg {
-    padding: 0px;
-    margin: 25px;
+    padding: 1px;
+    margin: 0px;
     background-color: #a73bff;
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: #ff7bc1;
 }
+
+h1{
+
+    color: #88ff00;
+}
+
+h4{
+    color: #66ff00;
+    font-size: 20px;
+}
+
 
 
